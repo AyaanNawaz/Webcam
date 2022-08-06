@@ -1,0 +1,26 @@
+#start-btn
+{
+    width: 70px;
+} 
+#camera
+{
+    width:335px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body{
+background-color: rgb(198, 255, 247);
+}
+#hr{
+background-color: blue;
+line-height: 20%;
+}
